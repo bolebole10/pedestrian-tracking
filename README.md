@@ -37,3 +37,10 @@ Run the main script to process a video and track pedestrians:
 python tracking-YOLO-SORT.py
 ```
 
+The script will display the video with bounding boxes and tracking IDs for detected pedestrians. Press `q` to quit.
+
+## Acknowledgments
+
+- [YOLOv8](https://github.com/ultralytics/ultralytics)
+- [SORT](https://github.com/abewley/sort)
+
